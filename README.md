@@ -56,7 +56,7 @@ To use this applicaiton please install: npm inquirer
 and run `npm run test` from the command line.
 
 ## Demo Video
-Visit [here]() to view a demonstration video of how to install the application.
+Visit [here](https://github.com/ShivaTagh/ReadmeGenerator/blob/main/dist/ReadmeGenerator.gif) to view a demonstration video of how to install the application.
   
 ## Questions
 If you have any questions about the repo, please [open an issue](https://github.com/ShivaTagh/ReadmeGenerator/issues) or contact me via email at shiva.taghizadeh@outlook.com. You can find more of my work on my GitHub, [ShivaTagh](https://github.com/ShivaTagh/ReadmeGenerator/).
