@@ -51,5 +51,5 @@ To use this applicaiton please install: npm inquirer
 and run `npm run test` from the command line.
   
 ## Questions
-If you have any questions about the repo, please [open an issue](https://github.com/ShivaTagh/ReadmeGenerator/issues) or contact me via email at shiva.taghizadeh@outlook.com. You can find more of my work on my GitHub, [ShivaTagh](https://github.com/ShivaTagh/).
+If you have any questions about the repo, please [open an issue](https://github.com/ShivaTagh/ReadmeGenerator/issues) or contact me via email at shiva.taghizadeh@outlook.com. You can find more of my work on my GitHub, [ShivaTagh](https://github.com/ShivaTagh/ReadmeGenerator/).
   
