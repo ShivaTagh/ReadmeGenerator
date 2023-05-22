@@ -22,7 +22,12 @@ To use this application, please install: npm inquirer
 ```
   
 ## Usage
-A prerequisite to using this code is having Node.js. 1-Clone The repository or download a local copy  2-Open a Terminal in the folder index.js is located  3-Type in npm install. This will set up all the packages you need.  4-Type in node index.js  5-Follow the prompts in the command line 
+A prerequisite to using this code is having Node.js. 
+* 1-Clone The repository or download a local copy  
+* 2-Open a Terminal in the folder index.js is located  
+* 3-Type in npm install. This will set up all the packages you need.  
+* 4-Type in node index.js  
+* 5-Follow the prompts in the command line 
   
 ### Screenshots
 ![Here is a screenshot image of the application. ](https://github.com/ShivaTagh/ReadmeGenerator/blob/main/dist/Screenshot.PNG)
